@@ -46,14 +46,11 @@ yarn.lock
 pnpm-lock.yaml
 
 # Environment
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -100,3 +97,4 @@ temp/
 .DS_Store
 Thumbs.db
 Desktop.ini
+config.bat
